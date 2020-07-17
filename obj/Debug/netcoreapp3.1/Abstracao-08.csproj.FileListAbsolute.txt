@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\bin\Debug\netcoreapp3.1\Abstracao-08.exe
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\bin\Debug\netcoreapp3.1\Abstracao-08.deps.json
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\bin\Debug\netcoreapp3.1\Abstracao-08.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\bin\Debug\netcoreapp3.1\Abstracao-08.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\bin\Debug\netcoreapp3.1\Abstracao-08.dll
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\bin\Debug\netcoreapp3.1\Abstracao-08.pdb
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\obj\Debug\netcoreapp3.1\Abstracao-08.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\obj\Debug\netcoreapp3.1\Abstracao-08.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\obj\Debug\netcoreapp3.1\Abstracao-08.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\obj\Debug\netcoreapp3.1\Abstracao-08.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\obj\Debug\netcoreapp3.1\Abstracao-08.dll
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\obj\Debug\netcoreapp3.1\Abstracao-08.pdb
+C:\Users\Kailane\Desktop\SENAI K\Abstracao-08\obj\Debug\netcoreapp3.1\Abstracao-08.genruntimeconfig.cache
